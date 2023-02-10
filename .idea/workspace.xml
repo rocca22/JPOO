@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3e824400-60cc-418c-8710-13fd66b54a02" name="Changes" comment="Clases Terminadas | No se podia enviar los archivos" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676000500984</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Clases Terminadas | No se podia enviar los archivos">
+      <created>1676000579481</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676000579482</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
