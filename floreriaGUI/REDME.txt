@@ -1,0 +1,6 @@
+el bkp Realizado en 
+Mysql -> Mysql Workbenck 
+
+una funcion
+
+ set global log_bin_trust_function_creators =1;
